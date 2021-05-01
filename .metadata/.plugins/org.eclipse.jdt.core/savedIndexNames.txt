@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/vinicius/Desktop/Fiap/1º ano/Laborátorio de programação/1º ano/codigos/.metadata/.plugins/org.eclipse.jdt.core
+2878139405.index
+600877810.index
+2033717371.index
+480919595.index

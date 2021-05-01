@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0604/0604.iml" filepath="$PROJECT_DIR$/0604/0604.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1304/1304.iml" filepath="$PROJECT_DIR$/1304/1304.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2004.1/2004.1.iml" filepath="$PROJECT_DIR$/2004.1/2004.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/204/204.iml" filepath="$PROJECT_DIR$/204/204.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2704/2704.iml" filepath="$PROJECT_DIR$/2704/2704.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3003/3003.iml" filepath="$PROJECT_DIR$/3003/3003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula1.1/Aula1.1.iml" filepath="$PROJECT_DIR$/Aula1.1/Aula1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula2.1/Aula2.1.iml" filepath="$PROJECT_DIR$/Aula2.1/Aula2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckpointEclipse/CheckpointEclipse.iml" filepath="$PROJECT_DIR$/CheckpointEclipse/CheckpointEclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio02/Exercicio02.iml" filepath="$PROJECT_DIR$/Exercicio02/Exercicio02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViniciusRM1/ViniciusRM1.iml" filepath="$PROJECT_DIR$/ViniciusRM1/ViniciusRM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula01/aula01.iml" filepath="$PROJECT_DIR$/aula01/aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula02/aula02.iml" filepath="$PROJECT_DIR$/aula02/aula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/codigos.iml" filepath="$PROJECT_DIR$/.idea/codigos.iml" />
+    </modules>
+  </component>
+</project>
